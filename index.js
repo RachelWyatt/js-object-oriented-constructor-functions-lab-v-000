@@ -1,7 +1,7 @@
-function User(name, age, hometown) {
-  this.name = name
-  this.age = age
-  this.hometown = hometown
+function Scooter(year, color, model) {
+  this.year = year
+  this.color = color
+  this.model = model
 }
 
 function User(name, age, hometown) {
@@ -10,3 +10,8 @@ function User(name, age, hometown) {
   this.hometown = hometown
 }
 
+function User(name, age, hometown) {
+  this.name = name
+  this.age = age
+  this.hometown = hometown
+}
